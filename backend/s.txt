@@ -1,0 +1,1 @@
+mongodb+srv://teena:teena123@cluster0.64gaxt7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
