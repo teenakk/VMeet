@@ -55,9 +55,9 @@
 }
 
 .conferenceView video {
-    width: 40vw;
-    height: 25vh;
-    min-width: 30vw;
+    width: 25vh;
+    height: 20vh;
+    /* min-width: 30vw; */
     border-radius: 10px;
     object-fit: cover;
 }
@@ -74,10 +74,12 @@
 @media (max-width: 600px) {
     .conferenceView {
         margin-top: 5vh;
+        height: 100vh;
+
     }
     .conferenceView video {
-        width: 90vw;
-        height: 22vh;
+        width: 25vw;
+        height: 18vh;
     }
 }
 
